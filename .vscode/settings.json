@@ -1,0 +1,4 @@
+{
+    "workbench.settings.useSplitJSON": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
